@@ -1,0 +1,64 @@
+
+body
+{
+    align-content:flex-start;
+    background-image: url('https://buffer.com/library/content/images/library/wp-content/uploads/2016/06/giphy.gif');
+    background-size:cover;
+    
+    
+    
+    height: 1vh;
+    padding:0;
+    margin:0;
+
+}
+img
+{
+    height: 50%;
+    width: 50%;
+    left: 50%;
+    shape-image-threshold: unset;
+    position:static;
+    align-items: center;
+    border-style: outset;
+    align-content: center;
+
+}
+hr
+{
+        size: 10%;
+        color:red ;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: gray;
+}
+.center {
+    display: block;
+    width: 50%;
+  }
+a:link, a:visited {
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color:black;
+  }
+  h1{
+    font-variant: normal;
+    color:yellow;
+    font-size: xx-large;
+  }
+  title
+  {
+    font: xx-large;
+    color: red;
+    
+  }
